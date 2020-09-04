@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web design
 - 🤔 I’m looking for help with web developer
 - 💬 Ask me about CSS tricks and Rwd related
-- 📫 How to reach me: [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/khaled4ui/)
-                        <a href="mailto:khaled4ev.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+- 📫 How to reach me: 
+    [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/khaled4ui/)
+     <a href="mailto:khaled4ev.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: learing new things.
 
@@ -25,4 +26,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://1.bp.blogspot.com/-YIfQT6q8ZM4/Vzyq5z1B8HI/AAAAAAAAAAc/UmWSSMLKtKgtH7CACElUp12zXkrPK5UoACLcB/s1600/image00.png"></code>  
 
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=khaled4dev&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=khaled4dev&show_icons=true&theme=radical)
+
