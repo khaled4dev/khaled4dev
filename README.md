@@ -4,9 +4,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning Javascript Frameworks
-- 👯 I’m looking to collaborate on Web design
-- 🤔 I’m looking for help with web developer
-- 💬 Ask me about CSS tricks and Rwd related
+- 👯 I’m looking to collaborate on Web Designer
+- 🤔 I’m looking for help with Web Developer
+- 💬 Ask me about CSS tricks and RWD related
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: learing new things.
