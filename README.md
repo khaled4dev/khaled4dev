@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="khaled4dev Github Stats" src="https://github-readme-stats.vercel.app/api?username=khaled4dev&show_icons=true&hide_border=true"&theme=radical />
+  <img align="left" alt="khaled4dev Github Stats" src="https://github-readme-stats.vercel.app/api?username=khaled4dev&show_icons=true&hide_border=true&theme=radical />
 
 </details>
 
