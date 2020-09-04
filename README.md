@@ -34,13 +34,7 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 </br>
----
- 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="khaled4dev Github Stats" src="https://github-readme-stats.vercel.app/api?username=khaled4dev&show_icons=true&hide_border=true&theme=radical />
 
-</details>
 
 [website]: https://khaled4dev
 [youtube]: https://www.youtube.com/channel/UCrcKhLHLgp0sGguNgVRbscg
