@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 [website]: https://khaled4dev
 [youtube]: https://www.youtube.com/channel/UCrcKhLHLgp0sGguNgVRbscg
 [instagram]: https://www.instagram.com/khaled4ui/
-[linkedin]: linkedin.com/in/md-khaled-b7b570154
+[linkedin]: https://linkedin.com/in/md-khaled-b7b570154
 
