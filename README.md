@@ -7,11 +7,19 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web design
 - 🤔 I’m looking for help with web developer
 - 💬 Ask me about CSS tricks and Rwd related
-- 📫 How to reach me: 
-    <br>[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/khaled4ui/)
-     <a href="mailto:khaled4ev.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+- 🥅 2020 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: learing new things.
+
+
+### Connect with me:
+
+[<img align="left" alt="khaled4ui.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="khaled4ui | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="khaled4ui | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="khaled4uir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 **Languages and Tools:**  
 
@@ -25,5 +33,8 @@ Here are some ideas to get you started:
 
 
 
-
+[website]: https://khaled4dev
+[youtube]: https://www.youtube.com/channel/UCrcKhLHLgp0sGguNgVRbscg
+[instagram]: https://www.instagram.com/khaled4ui/
+[linkedin]: linkedin.com/in/md-khaled-b7b570154
 
