@@ -1,7 +1,6 @@
 ### Hi I'm [Md khaled!]👋
 
-<!--
-**khaled4dev/khaled4dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
                         <a href="mailto:khaled4ev.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: learing new things.
--->
 
 **Languages and Tools:**  
 
