@@ -1,7 +1,5 @@
 ### Hi I'm [khaled!]👋
 
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Angular
@@ -11,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about CSS tricks and Rwd related
 - 📫 How to reach me: 
     <br>[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/khaled4ui/)
-     <a href="mailto:khaled4ev.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+     <a href="mailto:khaled4ev.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: learing new things.
 
