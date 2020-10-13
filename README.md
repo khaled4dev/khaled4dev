@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </br>
 
 
-[website]: https://khaled4dev
+[website]: https://khaledui.netlify.app/
 [youtube]: https://www.youtube.com/channel/UCrcKhLHLgp0sGguNgVRbscg
 [instagram]: https://www.instagram.com/khaled4ui/
 [linkedin]: https://linkedin.com/in/md-khaled-b7b570154
