@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Designer
 - 🤔 I’m looking for help with Web Developer
 - 💬 Ask me about CSS tricks and RWD related
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His.
 
 
