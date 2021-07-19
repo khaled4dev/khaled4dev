@@ -2,11 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Angular
+- 🔭 I’m currently working on React js
 - 🌱 I’m currently learning Javascript Frameworks
 - 👯 I’m looking to collaborate on Web Designer
 - 🤔 I’m looking for help with Web Developer
-- 💬 Ask me about CSS tricks and RWD related
+- 💬 Ask me about CSS tricks and Responsive Web Design related
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/His.
 
